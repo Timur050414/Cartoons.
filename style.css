@@ -29,6 +29,7 @@ span {
     width: 1119px;
     margin: 0 auto;
 }
+/* MIKI MOUSE SECTION */
 .mikimouse {
     padding: 99px 0px 99px 0px;
 }
@@ -69,3 +70,83 @@ span {
     color: #000000;
     
 }
+/* COCO SECTION */
+.coco {
+    padding: 99px 0px 99px 0px;
+}
+.coco-container {
+    display: flex;
+    gap: 107px;
+}
+.coco-subtitle {
+    display: flex;
+    gap: 30px;
+    font-size: 19px;
+    line-height: 36px;
+    align-items: center;
+    padding-bottom: 28px;
+}
+.coco-subtitle span {
+    background-color: #EBA789 ;
+}
+.coco-title {
+    font-size: 35px;
+    line-height: 45.63px;
+    margin-bottom:30px ;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.coco-text {
+    font-size: 14px;
+    line-height: 22.08px;
+    margin-bottom:35px;
+}
+.coco-link {
+    padding: 10px 20px;
+    background-color: #EBA789;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 22.08px;
+    color: #000000;
+    
+}
+/* MOANA SECTION */
+.moana {
+    padding: 99px 0px 99px 0px;
+}
+.moana-container {
+    display: flex;
+    gap: 107px;
+}
+.moana-subtitle {
+    display: flex;
+    gap: 30px;
+    font-size: 19px;
+    line-height: 36px;
+    align-items: center;
+    padding-bottom: 28px;
+}
+.moana-subtitle span {
+    background-color: #96DBC6;
+}
+.moana-title {
+    font-size: 35px;
+    line-height: 45.63px;
+    margin-bottom:30px ;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.moana-text {
+    font-size: 14px;
+    line-height: 22.08px;
+    margin-bottom:35px;
+}
+.moana-link {
+    padding: 10px 20px;
+    background-color: #96DBC6;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 22.08px;
+    color: #000000;  
+}
+
